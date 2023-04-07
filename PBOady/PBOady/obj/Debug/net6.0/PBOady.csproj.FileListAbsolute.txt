@@ -1,0 +1,15 @@
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\bin\Debug\net6.0\PBOady.exe
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\bin\Debug\net6.0\PBOady.deps.json
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\bin\Debug\net6.0\PBOady.runtimeconfig.json
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\bin\Debug\net6.0\PBOady.dll
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\bin\Debug\net6.0\PBOady.pdb
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\PBOady.csproj.AssemblyReference.cache
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\PBOady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\PBOady.AssemblyInfoInputs.cache
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\PBOady.AssemblyInfo.cs
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\PBOady.csproj.CoreCompileInputs.cache
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\PBOady.dll
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\refint\PBOady.dll
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\PBOady.pdb
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\PBOady.genruntimeconfig.cache
+C:\Users\ytnon\Documents\PBO\PBOady\PBOady\obj\Debug\net6.0\ref\PBOady.dll
